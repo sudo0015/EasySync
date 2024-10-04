@@ -1,0 +1,14 @@
+{
+    "MainWindow": {
+        "AutoRun": true,
+        "BufSize": "256 MB",
+        "Notify": true,
+        "ScanCycle": 10,
+        "DpiScale": 1.25,
+        "SourceFolder": "D:/2026届/02"
+    },
+    "QFluentWidgets": {
+        "ThemeColor": "#ff009faa",
+        "ThemeMode": "Auto"
+    }
+}
